@@ -2,7 +2,7 @@
 
 # hey, i'm riceandcode 🌾
 
-> b.tech cse (gen ai) · lpu × microsoft · india
+> b.tech cse (?) · lpu · india
 
 ---
 
@@ -41,5 +41,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riceandcode&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
+> stats loading as commits pile up
 
 *still learning. always building.* 🌾
