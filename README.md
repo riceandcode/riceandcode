@@ -1,6 +1,6 @@
 
 
-# hey, i'm riceandcode 🌾
+# hey, i'm Shamik Bhattacharjee 🌾
 
 > b.tech cse (?) · lpu · india
 
@@ -8,7 +8,7 @@
 
 ### currently
 
-- 🎓  incoming b.tech cse @ lpu — generative ai specialization
+- 🎓  incoming b.tech cse @ lpu 
 - 🤝  program in tie-up with microsoft
 - 🐍  learning python & ai before classes even start
 - 🌱  building the foundation, one commit at a time
