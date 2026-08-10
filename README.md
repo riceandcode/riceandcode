@@ -1,122 +1,115 @@
 <div align="center">
 
-<!-- Waving header banner -->
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Shamik%20Bhattacharjee&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Analytics&descAlignY=55&descSize=20" width="100%"/>
+  <!-- Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=333333&animation=twinkling">
+    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff" width="100%">
+  </picture>
 
-<!-- Typing SVG -->
-<a href="https://github.com/riceandcode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+%7C+R+%7C+SQL+%7C+C%2B%2B+%7C+Java;Machine+Learning+%26+Predictive+Modeling;Generative+AI+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</a>
+  <br />
 
-<br/>
+  <!-- Title -->
+  <h1>Hey there, I'm <a href="https://github.com/void.py">Shamik Bhattacharjee</a> 👋</h1>
 
-<!-- Profile view + follower badges -->
-<img src="https://komarev.com/ghpvc/?username=riceandcode&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/riceandcode?label=Followers&style=flat&color=7dd3fc" alt="GitHub followers"/>
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=500&height=50&lines=B.Tech+CSE+AI+%26+Data+Analytics;LPU+x+Quantiphi;1st+Year+CS+Student;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Pink GitHub Badges -->
+  <a href="https://github.com/void.py?tab=followers">
+    <img src="https://img.shields.io/github/followers/void.py?style=for-the-badge&logo=github&color=EF93C4&labelColor=1f1f1f" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/void.py">
+    <img src="https://img.shields.io/github/stars/void.py?style=for-the-badge&logo=github&color=F8BBD0&labelColor=1f1f1f" alt="Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/void.py">
+    <img src="https://komarev.com/ghpvc/?username=void.py&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+  </a>
 
 </div>
 
-<br/>
+<br /><br />
 
-## 🧠 Who I Am
+<!-- About Me Section -->
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🌸 About Me</h3>
+      <p>Hi! I'm <b>Shamik Bhattacharjee</b>, a 1st-year B.Tech CSE student specializing in <b>Artificial Intelligence & Data Analytics</b> at Lovely Professional University in tie-up with <b>Quantiphi</b>. I am deeply focused on learning computer science fundamentals, data science, and AI technologies.</p>
+      <ul>
+        <li>🎓 Pursuing <b>B.Tech CSE in AI & Data Analytics (LPU x Quantiphi)</b></li>
+        <li>🌱 I’m currently focused on <b>Python, Data Structures, Machine Learning & Data Analytics</b></li>
+        <li>💬 Ask me about <b>Python, AI/ML concepts, and Data Engineering</b></li>
+        <li>⚡ Fun fact: <b>I fuel my late-night coding sessions with iced coffee and synthwave music!</b></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?auto=format&fit=crop&w=500&q=80" width="100%" style="border-radius:15px;" alt="Workstation Illustration" />
+    </td>
+  </tr>
+</table>
 
-```typescript
-const shamik = {
-  title: "AI & Data Analytics",
-  stack: [
-    "Python", "R", "SQL", "C++", "Java",
-    "Pandas", "NumPy", "Scikit-Learn", "TensorFlow", "Keras",
-    "Power BI", "Tableau", "MS Excel (Advanced)", "SSIS",
-    "MySQL", "NoSQL", "Hadoop", "Apache Spark"
-  ],
-  focusAreas: [
-    "Generative AI",
-    "Machine Learning (Regression, Classification, Clustering)",
-    "Exploratory Data Analysis (EDA)",
-    "Predictive Modeling"
-  ],
-  status: "Building out data-driven ML projects 📊",
-  openTo: ["Collaborations", "Data & AI-focused projects"],
-} as const;
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,r,java,cpp,mysql" />
-
-**Libraries & Frameworks**
-
-![Pandas](https://img.shields.io/badge/Pandas-7dd3fc?style=for-the-badge&logo=pandas&logoColor=1a1a2e)
-![NumPy](https://img.shields.io/badge/NumPy-7dd3fc?style=for-the-badge&logo=numpy&logoColor=1a1a2e)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-7dd3fc?style=for-the-badge&logo=scikitlearn&logoColor=1a1a2e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7dd3fc?style=for-the-badge&logo=tensorflow&logoColor=1a1a2e)
-![Keras](https://img.shields.io/badge/Keras-7dd3fc?style=for-the-badge&logo=keras&logoColor=1a1a2e)
-![Seaborn](https://img.shields.io/badge/Seaborn-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-
-**Data Analytics & BI Tools**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-7dd3fc?style=for-the-badge&logo=powerbi&logoColor=1a1a2e)
-![Tableau](https://img.shields.io/badge/Tableau-7dd3fc?style=for-the-badge&logo=tableau&logoColor=1a1a2e)
-![Excel](https://img.shields.io/badge/MS%20Excel%20(Advanced)-7dd3fc?style=for-the-badge&logo=microsoftexcel&logoColor=1a1a2e)
-![SSIS](https://img.shields.io/badge/SSIS-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-
-**Big Data & Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-7dd3fc?style=for-the-badge&logo=mysql&logoColor=1a1a2e)
-![NoSQL](https://img.shields.io/badge/NoSQL-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-![Hadoop](https://img.shields.io/badge/Hadoop-7dd3fc?style=for-the-badge&logo=apachehadoop&logoColor=1a1a2e)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-7dd3fc?style=for-the-badge&logo=apachespark&logoColor=1a1a2e)
-
-**AI Tools & Core Concepts**
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
-
-<br/>
-
-## 📊 GitHub Stats
+<br /><br />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riceandcode&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riceandcode&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+  <!-- Tech Stack Section -->
+  <h3>💻 Tech Stack</h3>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres,tensorflow,pytorch,git,github,vscode" alt="Tech Stack Icons" />
+  </a>
 
-<br/>
+  <br /><br /><br />
 
-<img src="https://streak-stats.demolab.com?user=riceandcode&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" />
+  <!-- GitHub Analytics Section -->
+  <h3>📈 GitHub Analytics</h3>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void.py&theme=custom&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" alt="GitHub Streak" />
+  
+  <br /><br />
 
-<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void.py&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=riceandcode&theme=nord&no-frame=true&no-bg=true&margin-w=8" />
+  <br /><br /><br />
 
-<br/>
+  <!-- Contribution Snake Section -->
+  <h3>🐍 Contribution Snake</h3>
+  <br />
+  <!-- 
+    NOTE: Configure a GitHub Action using 'Platane/snk' to automatically 
+    generate your snake SVG and output it to your repository branch.
+  -->
+  <img src="https://raw.githubusercontent.com/void.py/void.py/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riceandcode&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="100%"/>
+  <br /><br /><br />
+
+  <!-- Connect Section -->
+  <h3>📫 Connect With Me</h3>
+  <br />
+  <p>
+    <a href="https://www.linkedin.com/in/shamik-bhattacharjee"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    &nbsp;
+    <a href="https://instagram.com/Lowkeyyshamik"><img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" /></a>
+    &nbsp;
+    <a href="https://tiktok.com/@[YOUR_TIKTOK_HANDLE]"><img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    &nbsp;
+    <a href="https://youtube.com/@[YOUR_YOUTUBE_HANDLE]"><img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    &nbsp;
+    <a href="mailto:shamik.appleid@gmail.com"><img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  </p>
+
+  <br /><br />
+
+  <!-- Footer Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
-
-<br/>
-
-## 🔗 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shamik-bhattacharjee" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shamik07grp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=1a1a2e" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
