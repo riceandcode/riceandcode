@@ -2,10 +2,10 @@
 
 > Learning velocity and project potential.
 
-**Theme:** Satan · **Style:** Creative · **Agent:** Data/ML Engineer
+
 
 ## Header
-> Editing this section in the inspector.
+
 Hi, I'm **riceandcode**. This README is tuned for **student** with a Satan visual system.
 <p align="center">
   <picture>
@@ -22,7 +22,6 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=riceandcode&theme=satan&mode=light" />
@@ -30,7 +29,6 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **Satan** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=riceandcode&theme=satan&mode=light" />
