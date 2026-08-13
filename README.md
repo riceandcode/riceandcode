@@ -3,7 +3,7 @@
 > Learning velocity and project potential.
 
 
-Hi, I'm **riceandcode**. This README is tuned for **student** with a Satan visual system.
+Hi, I'm **riceandcode**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=riceandcode&theme=satan&mode=light" />
@@ -11,7 +11,6 @@ Hi, I'm **riceandcode**. This README is tuned for **student** with a Satan visua
   </picture>
 </p>
 
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=riceandcode&theme=satan&mode=light" />
@@ -33,7 +32,7 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=riceandcode&theme=satan&mode=light" />
